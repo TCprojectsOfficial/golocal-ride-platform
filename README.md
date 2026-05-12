@@ -5,122 +5,161 @@ A professional ride-hailing MVP platform developed by TCprojects using Lovable.
 ---
 
 ## 🚀 Live Demo
-[View Platform Demo](https://id-preview--02a0027a-c58c-4054-a8d1-6fd5cf54c337.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoielVwUnVFUlRvOGRaSUtXWDNzSDlhWlNEMGF3MSIsInByb2plY3RfaWQiOiIwMmEwMDI3YS1jNThjLTQwNTQtYThkMS02ZmQ1Y2Y1NGMzMzciLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjAyYTAwMjdhLWM1OGMtNDA1NC1hOGQxLTZmZDVjZjU0YzMzNyIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzkwMDc5MTgsIm5iZiI6MTc3ODQwMzExOCwiaWF0IjoxNzc4NDAzMTE4fQ.R2aeFJ0awcWPmh_sYfdgpBl2u-yYQf4F1J3mKiGbMwFWhQ130XZE-I7xFdUYZxT9nZ7H2MR8WnFrFoLc_usKHcJR8sUK1wfdEZ4oU54-iNxcEbodsvmsulHc0j-z5nDmLhe9IyOWQ_KyPB5G5ukxUucAbM4XIj6n23LQaX5MO9W0Kj6kcYi1Uy27sCZU45JzB9oQ1wRnZ6RN4YBBXfpDlJla1QA6q1B27UlqEzuafZ73M3rjIGXAp8XbuoMef1WPJtzEZ3CiOQNPH-r1VJdNDKU79WjkCa4CKRWk3HcqGjXX6mszPQA_5eNL24ZQ8rqhvKcsZtnuQhFpdEYtOOd11rXnrR0FhHV_6lhDbE4pyWjGc03XsuUJBE9o4DdETI1BlMY-2QTLv5JRunpSXSERe1Q3e0Pr-RHShGnyCaRveCQ-ETOW3yPDzbTmgi5PFI44ip77V7zoalpxUdnRkJsn-d9nvJe433fghhtyfnmEf4YpsjAbd_IGuYqnTDjVYLALBh3jQID95mMnl3KQqCAyL6nQnZv8ZPDOIYSB67vLcAuEmHKuDqJYsJxbIotbQ-rOn22F-eB2fxtRnmCVdVNMS0-687a4uUToVq-nizCqpe7PV51hhxNwNAUknd8ewstdNz0Qb7l_5nevr9eqzQp0llSNtK77DFzvrradmH3_AV4)
+[View Platform Demo](https://id-preview--02a0027a-c58c-4054-a8d1-6fd5cf54c337.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoielVwUnVFUlRvOGRaSUtXWDNzSDlhWlNEMGF3MSIsInByb2plY3RfaWQiOiIwMmEwMDI3YS1jNThjLTQwNTQtYThkMS02ZmQ1Y2Y1NGMzMzciLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjAyYTAwMjdhLWM1OGMtNDA1NC1hOGQxLTZmZDVjZjU0YzMzNyIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzkxODU3MjksIm5iZiI6MTc3ODU4MDkyOSwiaWF0IjoxNzc4NTgwOTI5fQ.rWoYR139pi-HOrwY8ApUWvfJbwmHaW-rjX7CcpMwxjha_HIiQjuWBK_9IiaL7FK-M9H7a8LWSCQx5U-LoGYcduDoJ3oKjeEy17r8Cj8UVdYzppoNfE4e_iT65GnoqQxRJvkaTNUykMRvAI_FOlNiwiLrTjEJnT9GRKdmg1RtDEBonmgx1RrVR9XN3TyI6wyyk_HVLp-cr1AZ2uT287ggZ8Kp9vFHO3NSmqqnk23NO2WMTWmgKIKR5RCyGTmJpBq-PxRbuaSUOZVSPoQlKpWwGpi1QbjP3vLcgJdX3A5BIe2qWOK7EQS2nGNp6uZRyqc1wZyob8ATYErccbDDAcqSr11hbOXB-eSX1zsno8JCjnA5us9R7Y00r5N_ScznOg0146R5mZ434wGyvGrhZd-EZF17cscLDCRUrwypMEwP8rlPdKwOj-WYTFnXBJEFxAaNJMH8Cvx3Rtzpx04sJKMaH5UF1b_3q9hJryuXA0TRRPO0jfP0I_lE4-3xsW9LP2KjnxP__26lt_P3-NGA3GM2BqsV3KsOGDJpVYOzw08SShjcZgIWxDtmRy6w3xxm4ZzLPB1rbNNr6vd-kWWny9IuWv22MfByQiQwLKRPVpelSIQ8oIsGJChaGvarc5dpr0KT1d6lpuKwF-aBymdIYKYh7h4F11Ig0lUoVWUw0NlJXZI)
 
 ---
 
-## 📌 Project Status
+# 📌 PROJECT STATUS
 
-### PHASE 1 – PLATFORM BUILD (COMPLETED)
+# ✅ PHASE 1 – PLATFORM BUILD (COMPLETED)
 
-✔ Core website/platform built  
-✔ Passenger + driver flow created  
-✔ Basic booking system functional  
-✔ UI/UX structure completed  
+### Status:
+✔ Completed in Lovable
 
----
+### Achievements:
+- Core platform structure built
+- Passenger + driver flow created
+- Basic booking system functional
+- UI/UX structure completed
+- Mobile responsive layout implemented
 
-## 🎯 Outcome
-
-A working MVP system ready for:
-- Configuration
-- Testing
-- Operational setup
-- Real-world deployment preparation
+### Outcome:
+A working MVP system ready for configuration, testing, and operational deployment.
 
 ---
 
-## 🧭 Platform Overview
+# 🚧 PHASE 2 – PLATFORM CONFIGURATION & OPERATIONAL DEVELOPMENT (IN PROGRESS)
 
-GoLocal Ride is a community-based ride-hailing system designed to connect passengers with drivers through a structured dispatch model.
-
----
-
-## 👤 Passenger Flow
-- Request ride via booking form
-- Auto-generated ride request
-- Admin receives booking via WhatsApp/system panel
-- Ride confirmation sent manually or automatically (depending on setup)
-
----
-
-## 🚗 Driver Flow
-- Drivers registered in system
-- Ride requests dispatched via admin
-- WhatsApp driver group integration for coordination
-- Flexible, community-based ride assignment system
+### Current Focus:
+- Driver onboarding system
+- Operational testing
+- Ride dispatch workflow refinement
+- Admin coordination setup
+- Driver communication systems
+- Pricing structure implementation
+- Platform optimization
+- Real-world operational preparation
 
 ---
 
-## 🛠 Admin Control System (Phase 1)
-- Receive ride requests
-- Manage pricing rules
-- Dispatch rides manually or via automation
-- Monitor platform activity
-- Control driver allocation system
+# 🧭 PLATFORM OVERVIEW
+
+GoLocal Ride is a scalable community-based transport platform designed to connect passengers and drivers through a controlled dispatch and ride coordination system.
 
 ---
 
-## 🧱 Tech Stack
+# 👤 PASSENGER FLOW
+
+- Passenger requests ride
+- Booking request generated
+- Admin receives request
+- Ride allocated to available driver
+- Passenger receives ride confirmation
+
+---
+
+# 🚗 DRIVER FLOW
+
+- Drivers onboarded into system
+- Driver information managed operationally
+- Ride requests coordinated through dispatch structure
+- Flexible ride acceptance system
+- WhatsApp communication integration for coordination
+
+---
+
+# 🛠 ADMIN CONTROL SYSTEM
+
+### Current Features:
+- Booking request management
+- Ride allocation workflow
+- Driver coordination
+- Platform operational monitoring
+- Service area management
+- Pricing configuration preparation
+
+### Planned Expansion:
+- Full admin dashboard
+- Driver performance analytics
+- Automated dispatch system
+- Customer management tools
+- Financial reporting system
+
+---
+
+# 🧱 TECH STACK
 
 - Built with Lovable
 - React-based architecture
-- Modern UI/UX components
 - Responsive mobile-first design
-- API-ready structure for future automation
+- Modern UI/UX components
+- Scalable frontend structure
+- API-ready architecture for future integrations
 
 ---
 
-## 📂 Project Structure
-```
+# 📂 PROJECT STRUCTURE
+
+```bash
 /src
   /pages
   /components
-  /flows
-  /admin
-  /drivers
-  /passengers
+  /passenger-flow
+  /driver-flow
+  /admin-system
+  /booking-system
 /assets
 README.md
 ```
 
 ---
 
-## 📊 Business Vision
+# 📊 BUSINESS OBJECTIVES
 
-To build a scalable ride-hailing ecosystem for local communities with:
-- Low-cost transport access
-- Flexible driver onboarding
-- Admin-controlled dispatch system
-- Future AI automation integration
+- Build scalable local transport infrastructure
+- Empower independent drivers
+- Improve affordable transport access
+- Create community-focused mobility solutions
+- Develop scalable digital ride-hailing ecosystem
 
 ---
 
-## 🧩 Phase Roadmap
+# 🛣 DEVELOPMENT ROADMAP
 
-### Phase 1 (COMPLETED)
-✔ MVP platform built in Lovable  
-✔ Booking + driver flow functional  
+## ✅ Phase 1 – Platform Build (Completed)
+✔ Core MVP built  
+✔ Passenger + driver flow functional  
+✔ Booking system operational  
 
-### Phase 2 (NEXT)
-- Admin dashboard integration (full control panel)
-- WhatsApp automation for ride requests
-- Driver onboarding system
-- Pricing engine setup (ZAR-based)
+---
 
-### Phase 3 (FUTURE)
-- Full automation system
-- Mobile app version
-- GPS tracking integration
+## 🚧 Phase 2 – Configuration & Operations (Current)
+- Driver onboarding
+- Operational setup
+- Dispatch coordination
+- Testing & optimization
+- Pricing structure implementation
+- Platform stabilization
+
+---
+
+## 🔮 Phase 3 – Advanced System Expansion (Future)
+- Full automation systems
+- GPS live tracking
+- Mobile applications
 - Payment gateway integration
+- AI dispatch optimization
+- Fleet management tools
+- Rider wallet system
 
 ---
 
-## 👨‍💻 Developed By
+# 👨‍💻 DEVELOPED BY
+
 TCprojects
 
 ---
 
-## 🎯 Purpose
+# 🎯 PURPOSE
 
-To create a scalable, community-driven transport platform that simplifies ride booking, driver coordination, and local mobility access.
+To create a scalable transport platform that simplifies ride booking, improves local mobility access, empowers drivers, and supports future digital transport expansion.
